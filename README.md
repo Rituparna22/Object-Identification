@@ -21,6 +21,7 @@ In our case, the images are all aquarium/sealife based. Let us have a quick and 
 6. We then go on to the choice of the optimiser, and then we go on to define the function that trains the model.
 7. Then we start ti experiment with the model. Here I have experimented with 20 epochs, you may take lesser or more epochs and check for different conditions (Well the world is your canvas isn't it?!) .
 8. Finally we check whether or not our model has trained and is giving us the desired result.
-![image](https://github.com/user-attachments/assets/39eb8623-672a-4f8c-adf0-86a042b8b0e7)
+![image](https://github.com/user-attachments/assets/d306a067-0da6-4218-b057-1e6abd65b38a)
+
 
 So well what do you think??? Did it work?
